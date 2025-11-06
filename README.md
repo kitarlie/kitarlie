@@ -9,9 +9,9 @@ contact: "charliepf.04@gmail.com"
 
 selected_projects:
     [
-        "MAVEN": "developing custom data products summarising the last ten years of MAVEN data, with an eye to characterising space weather at Mars"
-        "CXT": "produced raytracing simulations of my optical systems built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford"
-        "Ringmind": "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing"
+        MAVEN: "developing custom data products summarising the last ten years of MAVEN data, with an eye to characterising space weather at Mars"
+        CXT: "produced raytracing simulations of my optical systems built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford"
+        Ringmind: "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing"
     ]
 
 my_interests:
