@@ -2,18 +2,23 @@
 
 #Charlie is my name, and space physics is my game 😎
 
-currently: "Fourth-year Physics student at Lancaster University."
-experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation."
-languages: "I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS."
+currently: "Fourth-year Physics student at Lancaster University"
+experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation"
+languages: "I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS"
+contact: "charliepf.04@gmail.com"
 
 some_of_my_projects:
     [
-
-          "CXT": "produced raytracing simulations of optical components built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford."
-          "[Ringmind](http://ringmind.org)": "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing."
+        "CXT": "produced raytracing simulations of my optical systems built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford"
+        "Ringmind": "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing"
     ]
 
-I love music - I play piano, guitar, bass and drums - as well as bouldering and hiking. If you want to reach out, you can find me at charliepf.04@gmail.com 🫡
+my_interests:
+    [
+        "Music": "I play guitar, piano and bass, and I'm learning drums"
+        "Hiking": "Studying near the Lake District has its perks"
+        "Gym": "I've been going for just over a year"
+    ]
 
 ```
 
