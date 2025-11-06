@@ -1,12 +1,12 @@
 ```yaml
 
-Charlie is my name, and space physics is my game 😎
+#Charlie is my name, and space physics is my game 😎
 
-I'm a fourth-year Physics student at Lancaster University. I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation. I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS.
+my_summary = "I'm a fourth-year Physics student at Lancaster University. I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation. I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS."
 
-Some of my projects
+some_of_my_projects = [
 
-My most recent project was [Ringmind](http://ringmind.org), an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing. We were migrating the codebase from Processing to C++, to introduce a novel method of GPU-based physical simulation; the improved efficiency will allow us to present a system of collisional, self-gravitating particles that eventually forms a ring system.
+          "[Ringmind](http://ringmind.org), an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing. We were migrating the codebase from Processing to C++, to introduce a novel           method of GPU-based physical simulation; the improved efficiency will allow us to present a system of collisional, self-gravitating particles that eventually forms a ring system."
 
 I love music - I play piano, guitar, bass and drums - as well as bouldering and hiking. If you want to reach out, you can find me at charliepf.04@gmail.com 🫡
 
