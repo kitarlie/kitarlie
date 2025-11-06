@@ -1,6 +1,6 @@
 ```yaml
 
-<p style="color:red;">#Charlie is my name, and space physics is my game 😎 </p>
+#Charlie is my name, and space physics is my game 😎
 
 currently: "Fourth-year Physics student at Lancaster University"
 experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation"
