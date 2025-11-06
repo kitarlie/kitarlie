@@ -2,7 +2,9 @@
 
 #Charlie is my name, and space physics is my game 😎
 
-name: "I'm a fourth-year Physics student at Lancaster University. I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation. I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS."
+currently: "Fourth-year Physics student at Lancaster University."
+experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation."
+languages: "I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS."
 
 some_of_my_projects = [
 
