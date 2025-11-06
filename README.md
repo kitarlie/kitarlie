@@ -4,11 +4,12 @@
 
 currently: "Fourth-year Physics student at Lancaster University"
 experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation"
-languages: "I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS"
+languages: "I mainly use Python, but I've done some work in C++ and MATLAB"
 contact: "charliepf.04@gmail.com"
 
-some_of_my_projects:
+selected_projects:
     [
+        "MAVEN": "developing custom data products summarising the last ten years of MAVEN data, with an eye to characterising space weather at Mars"
         "CXT": "produced raytracing simulations of my optical systems built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford"
         "Ringmind": "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing"
     ]
