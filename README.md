@@ -6,10 +6,12 @@ currently: "Fourth-year Physics student at Lancaster University."
 experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation."
 languages: "I mainly use Python, but I've done some work in C++ and I used to do a lot of CSS."
 
-some_of_my_projects = [
+some_of_my_projects:
+    [
 
-          "[CXT](https://oti.eng.ox.ac.uk/facilities/hypersonic-facilities)": "produced raytracing simulations of optical components built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford."
+          "CXT": "produced raytracing simulations of optical components built into the Cold-Driven Expansion Tunnel at the Oxford Thermofluids Institute, University of Oxford."
           "[Ringmind](http://ringmind.org)": "an interdisciplinary project showing the self-organising power of planetary ring structures and how they relate to human thinking and unconventional computing."
+    ]
 
 I love music - I play piano, guitar, bass and drums - as well as bouldering and hiking. If you want to reach out, you can find me at charliepf.04@gmail.com 🫡
 
