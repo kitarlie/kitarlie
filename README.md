@@ -11,10 +11,12 @@ some_of_my_projects = [
 
 I love music - I play piano, guitar, bass and drums - as well as bouldering and hiking. If you want to reach out, you can find me at charliepf.04@gmail.com 🫡
 
+```
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = 100 width = 100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg" height = 100 width = 100 />
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = 100 width = 100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = 100 width = 100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height = 100 width = 100 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height = 100 width = 100 />
           
-```
+
           
