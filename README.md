@@ -16,9 +16,9 @@ selected_projects:
 
 my_interests:
     [
-        "Music": "I play guitar, piano and bass, and I'm learning drums"
-        "Hiking": "Studying near the Lake District has its perks"
-        "Gym": "I've been going for just over a year"
+        Music: "I play guitar, piano and bass, and I'm learning drums"
+        Hiking: "Studying near the Lake District has its perks"
+        Gym: "I've been going for just over a year"
     ]
 
 ```
