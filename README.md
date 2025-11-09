@@ -4,7 +4,7 @@
 
 currently: "I'm a fourth-year Physics student at Lancaster University"
 experience: "I've been coding since 2018, focusing mainly on mathematical modelling, simulations, and data visualisation"
-languages: "I mainly use Python, but I've done some work in C++ and MATLAB"
+languages: "I mainly use Python, but I'm familiar with MATLAB and I've done some work in C++"
 contact: "charliepf.04@gmail.com"
 
 selected_projects:
